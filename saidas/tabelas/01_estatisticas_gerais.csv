@@ -1,0 +1,19 @@
+Medida,Valor
+N,120.0
+Média,25.33
+Mediana,25.0
+Moda,21.2
+Desvio Padrão,5.653
+Variância,31.958
+Mínimo,14.0
+Máximo,40.8
+Amplitude,26.8
+Q1 (25%),21.3
+Q3 (75%),28.8
+IQR,7.5
+Coef. Variação (%),22.318
+Assimetria (Skewness),0.468
+Curtose,-0.06
+Erro Padrão,0.516
+IC 95% (Inferior),24.308
+IC 95% (Superior),26.352

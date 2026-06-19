@@ -1,0 +1,3 @@
+laboratorio,N,Média,Mediana,Moda,Desvio Padrão,Variância,Mínimo,Máximo,Amplitude,Q1 (25%),Q3 (75%),IQR,Coef. Variação (%),Assimetria (Skewness),Curtose,Erro Padrão,IC 95% (Inferior),IC 95% (Superior)
+Lab1,57,24.704,23.7,21.3,5.916,34.994,14.0,40.4,26.4,20.6,28.7,8.1,23.946,0.551,-0.227,0.784,23.134,26.273
+Lab2,63,25.897,26.1,21.9,5.389,29.045,15.0,40.8,25.8,21.9,28.8,6.9,20.811,0.449,0.214,0.679,24.54,27.254
