@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Análise Estatística de Dados Laboratoriais (PCR / Valor Ct)
 
 Projecto Python para análise estatística descritiva, geração de tabelas e
@@ -88,3 +89,30 @@ taxas de positividade por grupo.
 - Os valores Ct dos resultados Negativos são, em média, bastante mais altos
   (33,6) do que os Positivos (23,2) — coerente com a interpretação clínica
   habitual (Ct mais alto = menos carga viral / resultado negativo).
+=======
+# -curso-de-Python
+esta pasta tem:
+
+##Descrição do Projeto: 
+contexto de criação do projecto no ambito do curso de Python...
+Aqui estão reunidos exercícios, exemplos e práticas desenvolvidas durante a aprendizagem da linguagem Python.
+
+##Objetivo
+O objetivo deste projeto é:
+- Aprender os conceitos básicos de programação em Python
+- Praticar lógica de programação
+- Desenvolver pequenos exercícios e scripts
+- Utilizar o Git e GitHub para controlo de versões
+
+##Tecnologias utilizadas
+- Python 3
+- Git
+- GitHub
+- VS Code
+
+##Estrutura do projeto
+O projeto pode conter:
+- Scripts em Python (.py)
+- Exercícios práticos
+- Notas de estudo
+>>>>>>> 7fc08bbd5808b529e375830c0b894eff1d671c99
