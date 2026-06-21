@@ -1,6 +1,4 @@
 # -curso-de-Python
-esta pasta tem:
-
 ##Descrição do Projeto: 
 contexto de criação do projecto no ambito do curso de Python...
 Aqui estão reunidos exercícios, exemplos e práticas desenvolvidas durante a aprendizagem da linguagem Python.
